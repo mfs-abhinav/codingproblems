@@ -1,6 +1,6 @@
 package com.abhi.array;
 
-public class findMaxConsecutiveOnes {
+public class FindMaxConsecutiveOnes {
     public static void main(String[] args) {
         System.out.println(findMaxConsecutiveOnes(new int[]{1,1,0,1,1,1}));
     }
