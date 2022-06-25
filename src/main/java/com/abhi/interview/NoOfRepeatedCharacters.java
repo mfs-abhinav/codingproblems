@@ -3,7 +3,20 @@ package com.abhi.interview;
 import java.util.HashMap;
 import java.util.Map;
 
-// str = "Abhinav Kumar"
+// str = "tcs"
+// str =  "cts"
+
+// str == "women"
+// str == "men"
+
+// str == "woman"
+// str == "men"
+
+//meet
+//met
+
+//
+
 // how many tims char repetaed
 public class NoOfRepeatedCharacters {
     public static void main(String[] args) {
